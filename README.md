@@ -3,8 +3,8 @@ Software engineering recommendations for tools developed by PIRL
 
 ## Source Control
 
-* Make a repository for *everything*, even one-off analyses. This is extremely useful for collaboration, reproducibility, and can save your future self a lot of time. If a collaborator wants to keep data or analyses private until publication, start off with a private repo and switch it to publicly visible if/when possible. 
-* 
+Make a repository for *everything*, even one-off analyses. This is extremely useful for collaboration, reproducibility, and can save your future self a lot of time. If a collaborator wants to keep data or analyses private until publication, start off with a private repo and switch it to publicly visible if/when possible. 
+
 ## Unit Testing
 
 Write unit tests for anything you plan to use more than once. You can also use unit tests to guide the software design/development process. 
