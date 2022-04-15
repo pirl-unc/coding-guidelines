@@ -1,4 +1,4 @@
-# coding-guidelines
+# WIP: PIRL coding guidelines
 Software engineering recommendations for tools developed by PIRL
 
 ## Unit Testing
