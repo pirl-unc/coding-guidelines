@@ -33,6 +33,10 @@ It's extremely useful to have your unit tests run on every commit so that you kn
 ## Code Style
 * Python: There are several coding styles for Python, the best for scientific computing and machine learning libraries is the [NumPy style guide](https://numpydoc.readthedocs.io/en/latest/format.html) 
 
+## Linting
+Linting checks code against a known set of coding standards.
+* Python: `flake8` and `pylint` can 
+
 ## Documentation 
 * [Read The Docs](https://readthedocs.org/)
 
