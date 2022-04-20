@@ -35,7 +35,7 @@ It's extremely useful to have your unit tests run on every commit so that you kn
 
 ## Linting
 Linting checks code against a known set of coding standards.
-* Python: `flake8` and `pylint` can 
+* Python: `flake8` and `pylint`
 
 ## Documentation 
 * [Read The Docs](https://readthedocs.org/)
