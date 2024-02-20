@@ -30,7 +30,7 @@ Whenever producing a research artifact involves a series of steps, try to at lea
 
 * **Encouraged**: Bash (small scripts), Nextflow, RAFT
 * **Tolerated**:  Snakemake, Make
-* **Discoraged**: CWL, WDL, Airflow, less common scripting languages such as Zsh
+* **Discouraged**: CWL, WDL, Airflow, less common scripting languages such as Zsh
 
 ## Unit Testing
 
