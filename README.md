@@ -21,7 +21,7 @@ One nice benefit of using feature branches is that the merge back to main can be
 PIRL does not mandate the use of any particular language or infrastructure for one-off projects. *However*, unless there is a compelling reason for the problem you're trying to solve, use languages (and frameworks) as high up this recommendation hierarchy as possible: 
 
 * **Encouraged**: Python, R, Rust
-* **Tolerated**:  Cython (try Rust with PyO2 instead)
+* **Tolerated**:  Cython (try Rust with PyO2 instead), C
 * **Discouraged**: Java, C++
 
 ## Workflows
