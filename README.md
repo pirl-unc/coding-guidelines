@@ -1,4 +1,4 @@
-# WIP: PIRL coding guidelines
+# PIRL coding guidelines (WIP)
 Software engineering recommendations for tools developed by PIRL
 
 
