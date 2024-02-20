@@ -22,7 +22,7 @@ PIRL does not mandate the use of any particular language or infrastructure for o
 
 * **Encouraged**: Python, R, Rust
 * **Tolerated**:  Cython (try Rust + Maturin instead), C
-* **Discouraged**: Java, C++
+* **Discouraged**: C++, Java (and other JVM languages like Scala), C# (and other .NET languages)
 
 ## Workflows
 
@@ -30,7 +30,7 @@ Whenever producing a research artifact involves a series of steps, try to at lea
 
 * **Encouraged**: Bash (small scripts), Nextflow, RAFT
 * **Tolerated**:  Snakemake, Make
-* **Discoraged**: CWL, WDL
+* **Discoraged**: CWL, WDL, Airflow, less common scripting languages such as Zsh
 
 ## Unit Testing
 
