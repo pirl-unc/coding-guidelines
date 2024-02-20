@@ -31,7 +31,7 @@ Whenever producing a research artifact involves a series of steps, try to at lea
 * **Encouraged**: Bash (small scripts), Nextflow, RAFT
 * **Tolerated**:  Snakemake, Make
 * **Discoraged**: CWL, WDL
-* 
+
 ## Unit Testing
 
 Write unit tests for anything you plan to use more than once. You can also use unit tests to guide the software design/development process. 
