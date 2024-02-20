@@ -18,7 +18,7 @@ One nice benefit of using feature branches is that the merge back to main can be
 
 ## Languages
 
-PIRL does not mandate the use of any particular language or infrastructure for one-off projects. *However*, unless there is a compelling reason for the problem you're trying to solve, use languages (and frameworks) as high up this recommendation hierarchy as possible: 
+PIRL does not mandate the use of any particular language or infrastructure for one-off projects. *However*, unless there is a compelling reason for the problem you're trying to solve, use languages as high up this recommendation hierarchy as possible: 
 
 * **Encouraged**: Python, R, Rust
 * **Tolerated**:  Cython (try Rust + Maturin instead), C
